@@ -2,7 +2,7 @@
 
 ## PHP version
 
-https://github.com/sysatom/devhub.io
+https://github.com/devhub-io/devhub.io
 
 ## Node.js version
 
